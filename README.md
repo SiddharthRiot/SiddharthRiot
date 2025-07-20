@@ -59,7 +59,7 @@ Welcome to my GitHub profile! Crafting high-quality software with a focus on AI 
 
 - LinkedIn: [Siddharth](https://www.linkedin.com/in/siddharthml/)
 
-- Instagram: [Siddharth](https://www.instagram.com/5idxriot?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- Instagram: [Siddharth](https://www.instagram.com/ykw_siddharth?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 - Email: [Contact Me](mailto:siddharthk9654@gmail.com)
 
