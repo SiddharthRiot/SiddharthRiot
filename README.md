@@ -20,12 +20,12 @@ Welcome to my GitHub profile! Crafting high-quality software with a focus on AI 
 
 #### 1. [Project 1](https://github.com/siddharthriot/repository-name)
 
-  <b>Description</b>: A simple real-time chat application where users can send and receive messages.
+  <b>Description</b>: VidSnapAI is a Flask-based web application that lets users upload images/videos, input a script, and automatically generates a high-quality, vertical Instagram reel (1080x1920) with a voiceover using ElevenLabs' AI.
 
-  - <b>Tech Stack</b>: Java
+  - <b>Tech Stack</b>: Python
 
 
-  - [📖 Repository](https://github.com/siddharthriot/repository-name)
+  - [📖 Repository](https://github.com/siddharthriot/VidSnapAI)
 
 #### 2. [Project 2](https://github.com/siddharthriot/repository-name)
 
