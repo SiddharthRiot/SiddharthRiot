@@ -29,7 +29,6 @@ Git • Docker • Linux
 * Agent-Based Modeling
 * Optimization algorithms
 * Machine Learning
-* Microservices
 
 Trying to understand machines before they start understanding us.
 
