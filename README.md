@@ -24,13 +24,6 @@ MySQL • PostgreSQL
 **Tools:**
 Git • Docker • Linux
 
-### **Currently exploring**
-
-* Agent-Based Modeling
-* Optimization algorithms
-* Machine Learning
-
-Trying to understand machines before they start understanding us.
 
 ## Links
 
