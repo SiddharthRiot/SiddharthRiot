@@ -31,7 +31,7 @@ LinkedIn — https://www.linkedin.com/in/siddharthmac/
 LeetCode — https://leetcode.com/u/siddharthriot/  
 Codeforces — https://codeforces.com/profile/sidharth_kumar/  
 Kaggle — https://www.kaggle.com/wisdomsiddharth/  
-Portfolio — https://siddharthriot-portfolio.vercel.app/
+Portfolio — www.siddharthkumar.live
 
 ---
 
