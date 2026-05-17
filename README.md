@@ -29,8 +29,6 @@ Git • Docker • Linux
 
 LinkedIn — https://www.linkedin.com/in/siddharthmac/  
 LeetCode — https://leetcode.com/u/siddharth0x/  
-Codeforces — https://codeforces.com/profile/sidharth_kumar/  
-Kaggle — https://www.kaggle.com/wisdomsiddharth/  
 Portfolio — www.siddharthkumar.live
 
 ---
