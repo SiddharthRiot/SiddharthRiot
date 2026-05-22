@@ -4,7 +4,7 @@
 
 Let’s skip the long intros.
 
-I build things, break them, fix them,
+I build things, break them, fix them,  
 and then improve them just because I can.
 
 ### **Stack**
