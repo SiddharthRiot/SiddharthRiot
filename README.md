@@ -4,8 +4,8 @@
 
 Let’s skip the long intros.
 
-I build things, break them, fix them,  
-and then improve them just because I can.
+I write code, break systems, fix them,  
+then optimize them because why not.
 
 ### **Stack**
 
