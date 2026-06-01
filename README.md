@@ -1,36 +1,39 @@
-## 👋 Siddharth here,
-
+## Hey, Siddharth here.
 <img src="https://komarev.com/ghpvc/?username=siddharthriot&label=Views&color=blue&style=plastic" alt="siddharthriot" />
 
-Let’s skip the long intros.
+> *not your average dev. i ship, i break, i fix, i repeat usually at 2am.*
 
-I write code, break systems, fix them,  
-then optimize them because why not.
-
-### **Stack**
-
-**Languages:**
-Java • C++ • Python
-
-**Development:**
-React • Django • Flask
-
-**Data & ML:**
-NumPy • Pandas • PyTorch
-
-**Databases:**
-MySQL • PostgreSQL
-
-**Tools:**
-Git • Docker • Linux
-
-
-## Links
-
-LinkedIn — https://www.linkedin.com/in/siddharthmac/  
-LeetCode — https://leetcode.com/u/siddharth0x/  
-Portfolio — www.siddharthkumar.live
+*somewhere between a bug and a breakthrough.*  
+the kind of person who reads error logs for fun.  
+if it compiles, it ships. if it doesn't, we don't talk about it.
 
 ---
 
-Build. Break. Improve. Repeat.
+### What I work with
+
+`Java` `C++` `Python` — the holy trinity  
+`React` `Django` `Flask` — frontend to backend, no cap  
+`PyTorch` `Pandas` `NumPy` — making machines learn stuff  
+`MySQL` `PostgreSQL` — data doesn't lose itself  
+`Git` `Docker` `Linux` — the non-negotiables  
+
+---
+
+### Currently Exploring
+
+- currently: breaking open source, one PR at a time.
+- down the rabbit hole of LLMs, RAG & agents no way back.
+- figuring out where RAG ends and agents begin.
+- finding gaps in the research and filling them with code.
+
+---
+
+### Find me
+
+- [linkedin](https://www.linkedin.com/in/siddharthmac/)
+- [leetcode](https://leetcode.com/u/siddharth0x/)
+- [portfolio](https://www.siddharthkumar.live)
+
+---
+
+*build. break. improve. repeat.*
