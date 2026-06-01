@@ -33,6 +33,7 @@ if it compiles, it ships. if it doesn't, we don't talk about it.
 - [linkedin](https://www.linkedin.com/in/siddharthmac/)
 - [leetcode](https://leetcode.com/u/siddharth0x/)
 - [portfolio](https://www.siddharthkumar.live)
+- [kaggle](https://www.kaggle.com/wisdomsiddharth)
 
 ---
 
